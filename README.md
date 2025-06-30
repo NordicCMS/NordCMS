@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/e6280369-5218-48cd-b757-7b698688a081)
+
 NordicCRM - In-House Hosting Management Panel
 NordicVM CRM is a custom-built Client Relationship Manager (CRM) and billing system designed for infrastructure and web hosting providers. It provides a complete, self-hosted solution for managing clients, services, billing, and support, inspired by industry-standard platforms like WHMCS.
 
